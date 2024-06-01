@@ -8,3 +8,13 @@
 \\Mac\Home\Documents\семестр 6\Imitation-modeling-main\Laba13\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
 \\Mac\Home\Documents\семестр 6\Imitation-modeling-main\Laba13\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
 \\Mac\Home\Documents\семестр 6\Imitation-modeling-main\Laba13\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+\\Mac\Home\Documents\семестр 6\имитационное моделирование\lab1\932101.vu.anh.simulation.lab13\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+\\Mac\Home\Documents\семестр 6\имитационное моделирование\lab1\932101.vu.anh.simulation.lab13\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+\\Mac\Home\Documents\семестр 6\имитационное моделирование\lab1\932101.vu.anh.simulation.lab13\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+\\Mac\Home\Documents\семестр 6\имитационное моделирование\lab1\932101.vu.anh.simulation.lab13\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.AssemblyReference.cache
+\\Mac\Home\Documents\семестр 6\имитационное моделирование\lab1\932101.vu.anh.simulation.lab13\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+\\Mac\Home\Documents\семестр 6\имитационное моделирование\lab1\932101.vu.anh.simulation.lab13\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+\\Mac\Home\Documents\семестр 6\имитационное моделирование\lab1\932101.vu.anh.simulation.lab13\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+\\Mac\Home\Documents\семестр 6\имитационное моделирование\lab1\932101.vu.anh.simulation.lab13\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+\\Mac\Home\Documents\семестр 6\имитационное моделирование\lab1\932101.vu.anh.simulation.lab13\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+\\Mac\Home\Documents\семестр 6\имитационное моделирование\lab1\932101.vu.anh.simulation.lab13\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
